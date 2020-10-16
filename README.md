@@ -9,5 +9,17 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscal
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
 
+## Setup instructions:
+
+```git clone git@github.com:codeanticode/colabo.git```
+
+```cd colabo```
+
+```bundle install```
+
+```bundle exec jekyll serve```
+
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
+
+
